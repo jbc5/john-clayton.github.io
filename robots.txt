@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://victormoni.github.io/sitemap.xml
+Sitemap: https://jbc5.github.io/john-clayton.github.io/sitemap.xml
