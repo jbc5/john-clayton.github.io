@@ -7,9 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/presentations.md -->
-<!-- Entries are listed in _data/presentations.yml -->
-
 <div class="publications">
   {% assign years = site.data.presentations | group_by: "year" %}
   {% for year in years %}

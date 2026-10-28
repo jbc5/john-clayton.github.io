@@ -7,9 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/teaching.md -->
-<!-- Courses are listed in _data/teaching.yml -->
-
 <div class="publications">
   {% for group in site.data.teaching %}
     <h2 class="bibliography">{{ group.role }}</h2>
