@@ -1,0 +1,75 @@
+# Courses taught, newest first within each role (rendered by _pages/teaching.md).
+
+- role: Instructor of Record
+  courses:
+    - term: Fall 2025
+      course: "IE STD 280A: Old Norse &amp; Proto-Germanic"
+      institution: University of California, Los Angeles, CA
+    - term: Winter 2025
+      course: "IE STD C160/C260: Indo-European Comparative Mythology &amp; Poetics"
+      institution: University of California, Los Angeles, CA
+    - term: Spring 2024–6
+      course: "LING M4/IE STD M70: Language &amp; Evolution"
+      institution: University of California, Los Angeles, CA
+    - term: Winter 2024–6
+      course: "LING/IE STD M150: Introduction to Indo-European Linguistics"
+      institution: University of California, Los Angeles, CA
+    - term: Fall 2023
+      course: "IE STD 280A: Introduction to Gothic &amp; Proto-Germanic"
+      institution: University of California, Los Angeles, CA
+    - term: Fall 2023–5
+      course: "IE STD 205: Introduction to Indo-European Phonology"
+      institution: University of California, Los Angeles, CA
+    - term: Summer 2021
+      course: "GREEK 16: Intensive First-Year Greek"
+      institution: University of California, Los Angeles, CA
+      note: Co-instructor Alex Roy, supervisor Dr. Richard Ellis
+
+- role: Teaching Assistant
+  courses:
+    - term: Spring 2023
+      course: "LING 1: Introduction to the Study of Language"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Harold Torrence"
+    - term: Winter 2023
+      course: "LING 1: Introduction to the Study of Language"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Giuseppina Silvestri"
+    - term: Fall 2022
+      course: "LING 1: Introduction to the Study of Language"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Giuseppina Silvestri"
+    - term: Spring 2022
+      course: "LING 20: Introduction to Linguistic Analysis"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Carson Schütze"
+    - term: Winter 2022
+      course: "LING 20: Introduction to Linguistic Analysis"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Claire Moore-Cantwell"
+    - term: Spring 2021
+      course: "LING 20: Introduction to Linguistic Analysis"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Claire Moore-Cantwell"
+    - term: Winter 2021
+      course: "LING 110: Introduction to Historical Linguistics"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. David Goldstein"
+    - term: Spring 2019
+      course: "LING 110: Introduction to Historical Linguistics"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. David Goldstein"
+    - term: Winter 2019
+      course: "LING 20: Introduction to Linguistic Analysis"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Carson Schütze"
+    - term: Fall 2018
+      course: "LING 1: Introduction to the Study of Language"
+      institution: University of California, Los Angeles, CA
+      note: "Instructor: Dr. Dominique Sportische"
+
+- role: Tutoring
+  courses:
+    - term: 2013–4
+      course: Computer Science Tutor
+      institution: Oregon State University, Corvallis, OR
