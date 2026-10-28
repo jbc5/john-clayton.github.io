@@ -1,5 +1,6 @@
 # Conference presentations, newest first (rendered by _pages/presentations.md).
-# type: badge shown next to the entry (Talk or Poster); with: co-presenter, if any.
+# type: badge shown next to the entry (Talk or Poster); with: co-presenter, if any;
+# pdf: handout or slides in assets/pdf/, if any.
 
 - year: 2025
   type: Talk
@@ -79,6 +80,7 @@
   event: 232<sup>nd</sup> Annual Meeting of the American Society for Premodern Asia
   location: Boston
   date: March 18–21, 2022
+  pdf: clayton2022lengthening-handout.pdf
 
 - year: 2021
   type: Talk

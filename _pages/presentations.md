@@ -29,6 +29,11 @@ nav_order: 2
               <div class="periodical">
                 <em>{{ talk.event }}</em>, {{ talk.location }}, {{ talk.date }}
               </div>
+              {% if talk.pdf %}
+                <div class="links">
+                  <a href="{{ talk.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Handout</a>
+                </div>
+              {% endif %}
             </div>
           </div>
         </li>
