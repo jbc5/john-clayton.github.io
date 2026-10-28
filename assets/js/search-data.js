@@ -7,34 +7,34 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/john-clayton.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "Publications in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/john-clayton.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-presentations",
           title: "presentations",
           description: "Conference presentations in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/john-clayton.github.io/presentations/";
+            window.location.href = "/presentations/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses taught at UCLA and elsewhere.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/john-clayton.github.io/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "Curriculum Vitæ (March 2026). The full CV can be downloaded as a PDF using the icon on the right.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/john-clayton.github.io/cv/";
+            window.location.href = "/cv/";
           },
         },];
