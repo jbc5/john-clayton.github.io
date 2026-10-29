@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum Vitæ (March 2026). The full CV can be downloaded as a PDF using the icon on the right.",
+          description: "Curriculum Vitæ (October 2026). The full CV can be downloaded as a PDF using the icon on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
