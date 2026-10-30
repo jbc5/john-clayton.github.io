@@ -21,7 +21,7 @@
     - term: 2021
       course: "GREEK 16: Intensive First-Year Greek"
       institution: University of California, Los Angeles, CA
-      note: Co-instructor Alex Roy, supervisor Dr. Richard Ellis
+      note: Co-instructor Alex Roy #, supervisor Dr. Richard Ellis
 
 - role: Teaching Assistant
   courses:
@@ -34,7 +34,6 @@
     - term: 2019, 2021
       course: "LING 110: Introduction to Historical Linguistics"
       institution: University of California, Los Angeles, CA
-      note: "Instructor: Dr. David Goldstein"
 
 - role: Tutoring
   courses:
