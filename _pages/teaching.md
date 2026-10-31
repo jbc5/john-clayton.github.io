@@ -40,7 +40,7 @@ nav_order: 3
       <li>Introductory phonetics &amp; phonology</li>
       <li>Introductory morphology</li>
       <li>Introductory syntax</li>
-      <li>Optimality Theory</li>
+      <!-- <li>Optimality Theory</li> -->
       <li>Historical linguistics</li>
       <li>Language &amp; evolution</li>
       <li>Structure and history of English words</li>
@@ -59,7 +59,7 @@ nav_order: 3
       <li>Introductory Ancient Greek</li>
       <li>Introductory Latin</li>
       <li>History of the Indic Languages</li>
-      <li>History of the Romance Languages</li>
+      <!-- <li>History of the Romance Languages</li> -->
     </ul>
   </div>
 </div>
